@@ -1,6 +1,9 @@
-# Flochai.github.io — My DevOps Blog
-
-👋 Welcome to my blog repo
+---
+layout: post
+title: "Why I'm Starting This Blog"
+date: 2025-06-01
+categories: devops learning journey
+---
 
 I’ve decided to document my DevOps learning journey for two reasons:
 
@@ -14,13 +17,4 @@ Right now I’m studying:
 
 I'll post short lessons, tools I try, problems I run into, and how I solved them (or why I failed). Thanks for reading — and let’s see how far I can go.
 
-
-
-🌍 [Read the blog here](https://flochai.github.io)
-
----
-
-📝 Built with Jekyll, deployed via GitHub Pages.
-
-	
-    •	Go with the Flo 🚀
+Go with the Flo 🚀
