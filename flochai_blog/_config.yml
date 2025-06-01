@@ -1,0 +1,11 @@
+title: "Flo's DevOps Journey"
+description: "Documenting my road from 0 to Kubernetes hero."
+baseurl: "" 
+url: "https://flochai.github.io"
+theme: minima
+
+author:
+  name: Flo
+  email: flochai@icloud.com
+
+markdown: kramdown
